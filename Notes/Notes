@@ -1,1 +1,4 @@
 Single Page Application :
+SPA is a web application that load once after that javascript responsible for navigation from one page to an other page without reloading.
+ReactJs :
+Is a component based library.
